@@ -42,8 +42,15 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvin-vincent&show_icons=true&locale=en&layout=compact" alt="elvin-vincent" /></p>
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elvin-vincent&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvin-vincent&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elvin-vincent&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvin-vincent&show_icons=true&locale=en" alt="elvin-vincent" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvin-vincent&" alt="elvin-vincent" /></p>
+<h3 align="center">💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House</h3>
